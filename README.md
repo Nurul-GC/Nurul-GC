@@ -16,7 +16,7 @@ Aqui estão algumas idéias sobre mim para você começar:
     - Linkedin: [Nurul Carvalho](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/) 
 - 😄 Pronomes: Nuninha ou GC
 
-### Conheça também o pequeno resumo sobre os meus [repositórios](https://nurulgc.github.io/intro/) 🤓..
+### Conheça também o pequeno resumo sobre os meus [repositórios](https://nurul-gc.github.io/intro/) 🤓..
 
 ---
 
@@ -38,4 +38,4 @@ Here are some ideas about me to get you started:
     - Linkedin: [Nurul Carvalho](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/)
 - 😄 Pronouns: Nuninha or GC
 
-### See also the short summary about my [repositories](https://nurulgc.github.io/intro/) 🤓..
+### See also the short summary about my [repositories](https://nurul-gc.github.io/intro/) 🤓..
