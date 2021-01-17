@@ -39,3 +39,33 @@ Here are some ideas about me to get you started:
 - 😄 Pronouns: Nuninha or GC
 
 ### See also the short summary about my [repositories](https://nurul-gc.github.io/intro/) 🤓..
+
+---
+
+## Mais Estados - More Status 💻
+
+Contagem de visitantes - Visitor Counts \
+![](https://profile-counter.glitch.me/Nurul-GC/count.svg)
+
+Meu resumo pelo GitHub - My GitHub Summary \
+![](https://github-readme-stats.vercel.app/api?username=Nurul-GC&show_icons=true&theme=dracula)
+
+Linguagens dominantes - Usual Languages \
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurul-GC&layout=compact&theme=dracula)
+
+Conquistas - Throphies \
+![](https://github-profile-trophy.vercel.app/?username=Nurul-GC&column=7&theme=dracula)
+
+---
+
+## Perfis sociais - Social profiles :nerd:
+
+![](https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white&link=https://nurul-gc.github.io/intro/)
+\
+![](https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/nurul.carvalho)
+\ 
+![](https://img.shields.io/badge/-twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/NurulGC3)
+\
+![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/)
+\
+![](https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:nuruldecarvalho@gmail.com)
