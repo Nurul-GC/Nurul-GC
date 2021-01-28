@@ -44,7 +44,7 @@ Here are some ideas about me to get you started:
 
 ### Mais Estados - More Status 💻
 
-Contagem de visitantes - Counting visitors \
+Contagem de visitantes anuais - Counting yearly visitors \
 ![](https://profile-counter.glitch.me/Nurul-GC/count.svg)
 
 Meu resumo do GitHub \
@@ -60,8 +60,8 @@ Conquistas - Trophies \
 
 ### Perfis sociais - Social profiles 🤓
 
-![](https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white&link=https://nurul-gc.github.io/intro/) \
+![](https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white&link=https://nurul-gc.github.io/intro/)
 ![](https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/nurul.carvalho) \
-![](https://img.shields.io/badge/-twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/NurulGC3) \
+![](https://img.shields.io/badge/-twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/NurulGC3)
 ![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/) \
 ![](https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:nuruldecarvalho@gmail.com)
