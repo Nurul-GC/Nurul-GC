@@ -60,7 +60,7 @@ Conquistas - Trophies \
 
 ### Perfis sociais - Social profiles 🤓
 
-![](https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white&link=https://nurul-gc.github.io/intro/)
+![](https://camo.githubusercontent.com/8604610b419bad8facb513f17f83f764cd43554e5a3f36936b388bf9a33a6e6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303f7374796c653d666c61742d636972636c65266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6e7572756c2d67632e6769746875622e696f2f696e74726f2f)
 ![](https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/nurul.carvalho) \
 ![](https://img.shields.io/badge/-twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/NurulGC3)
 ![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/) \
