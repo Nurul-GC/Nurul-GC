@@ -14,9 +14,9 @@ Aqui estão algumas idéias sobre mim para você começar:
   - Instagram: [NurulGC](https://www.instagram.com/nurulgc/)
   - Twitter: [Nurul-GC](https://twitter.com/NurulGC3)
   - Linkedin: [Nurul Carvalho](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/)
-- 😄 Pronomes: Nuninha ou GC
+- 😄 Apelidos: Nuninha ou GC
 
-## Conheça também o pequeno resumo sobre os meus [repositórios](https://nurul-gc.github.io/intro/) 🤓
+**Conheça também o pequeno resumo sobre os meus [repositórios](https://nurul-gc.github.io/intro/)** 🤓
 
 ---
 
@@ -36,24 +36,24 @@ Here are some ideas about me to get you started:
   - Instagram: [NurulGC](https://www.instagram.com/nurulgc/)
   - Twitter: [Nurul-GC](https://twitter.com/NurulGC3)
   - Linkedin: [Nurul Carvalho](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/)
-- 😄 Pronouns: Nuninha or GC
+- 😄 Nicknames: Nuninha or GC
 
-## See also the short summary about my [repositories](https://nurul-gc.github.io/intro/) 🤓
+**See also the short summary about my [repositories](https://nurul-gc.github.io/intro/)** 🤓
 
 ---
 
 ### Mais Estados - More Status 💻
 
-Contagem de visitantes anuais - Counting yearly visitors \
+**Contagem de visitantes anuais - Counting yearly visitors** \
 ![countvisitors](https://profile-counter.glitch.me/Nurul-GC/count.svg)
 
-Meu resumo do GitHub \
+**Meu resumo do GitHub** \
 ![resume](https://github-readme-stats.vercel.app/api?username=Nurul-GC&show_icons=true&theme=dracula)
 
-Linguagens dominantes \
+**Linguagens dominantes** \
 ![softskils](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurul-GC&layout=compact&theme=dracula)
 
-Conquistas - Trophies \
+**Conquistas - Trophies** \
 ![trophies](https://github-profile-trophy.vercel.app/?username=Nurul-GC&column=7&theme=dracula)
 
 ---
