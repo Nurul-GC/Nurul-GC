@@ -10,7 +10,7 @@ Aqui estão algumas idéias sobre mim para você começar:
 - 🤔 Estou procurando ajuda para muitos projetos, tente entrar em contato comigo!
 - 💬 Me pergunte sobre qualquer coisa [Nurul Carvalho](mailto:nuruldecarvalho@gmail.com)
 - 📫 Como me encontrar:
-  - WhatsApp: [+27735550878](https://api.whatsapp.com/send?phone=27735550878)
+  - WhatsApp: [+27 73 555 0878](https://api.whatsapp.com/send?phone=27735550878)
   - Telegram: [Nurul GC](https://t.me/NurulGC)
   - Facebook: [Nurul Hosny GC](https://facebook.com/nurul.carvalho)
   - Instagram: [NurulGC](https://www.instagram.com/nurulgc/)
