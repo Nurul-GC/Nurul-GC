@@ -30,7 +30,7 @@ Here are some ideas about me to get you started:
 - 🤔 I’m looking for help with many projects, please try to reach me!
 - 💬 Ask me about anything [Nurul Carvalho](mailto:nuruldecarvalho@gmail.com)
 - 📫 How to reach me:
-  - WhatsApp: [+27735550878](https://api.whatsapp.com/send?phone=27735550878)
+  - WhatsApp: [+27 73 555 0878](https://api.whatsapp.com/send?phone=27735550878)
   - Telegram: [Nurul GC](https://t.me/NurulGC)
   - Facebook: [Nurul Hosny GC](https://facebook.com/nurul.carvalho)
   - Instagram: [NurulGC](https://www.instagram.com/nurulgc/)
@@ -42,7 +42,7 @@ Here are some ideas about me to get you started:
 
 ---
 
-### Mais Estados - More Status 💻
+# Mais Estados - More Status 💻
 
 **Contagem de visitantes anuais - Counting yearly visitors** \
 ![countvisitors](https://profile-counter.glitch.me/Nurul-GC/count.svg)
