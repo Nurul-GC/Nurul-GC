@@ -1,6 +1,5 @@
 # ![business-card](img/cartaovisitaGC1.png)
 
----
 # Olá Colega 👋
 
 Aqui estão algumas idéias sobre mim para você começar:
