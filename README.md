@@ -1,3 +1,6 @@
+# ![business-card](img/cartaovisitaGC1.png)
+
+---
 # Olá Colega 👋
 
 Aqui estão algumas idéias sobre mim para você começar:
@@ -42,7 +45,7 @@ Here are some ideas about me to get you started:
 
 ---
 
-### Mais Estados - More Status 💻
+## Mais Estados - More Status 💻
 
 **Contagem de visitantes anuais - Counting yearly visitors** \
 ![countvisitors](https://profile-counter.glitch.me/Nurul-GC/count.svg)
