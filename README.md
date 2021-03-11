@@ -66,8 +66,8 @@ Here are some ideas about me to get you started:
 
 ### Perfis sociais - Social profiles 🤓
 
+[![gmail-icon](img/gmail-icon.svg)](mailto:nuruldecarvalho@gmail.com) \
 [![github-icon](img/github-icon.svg)](https://nurul-gc.github.io/intro)
 [![facebook-icon](img/fb-icon.svg)](https://www.facebook.com/nurul.carvalho) \
 [![twitter-icon](img/twitter-icon.svg)](https://twitter.com/NurulGC3)
-[![linkedin-icon](img/linkedin-icon.svg)](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/) \
-[![gmail-icon](img/gmail-icon.svg)](mailto:nuruldecarvalho@gmail.com)
+[![linkedin-icon](img/linkedin-icon.svg)](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/)
