@@ -46,17 +46,21 @@ Here are some ideas about me to get you started:
 
 ## Mais Estados - More Status 💻
 
+<p style="text-align:center;">
+
 **Contagem de visitantes anuais - Counting yearly visitors** \
 ![countvisitors](https://profile-counter.glitch.me/Nurul-GC/count.svg)
-
-**Meu resumo do GitHub** \
-![resume](https://github-readme-stats.vercel.app/api?username=Nurul-GC&show_icons=true&theme=dracula)
 
 **Linguagens dominantes** \
 ![softskils](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurul-GC&layout=compact&theme=dracula)
 
+**Meu resumo do GitHub** \
+![resume](https://github-readme-stats.vercel.app/api?username=Nurul-GC&show_icons=true&theme=dracula)
+
 **Conquistas - Trophies** \
 ![trophies](https://github-profile-trophy.vercel.app/?username=Nurul-GC&column=7&theme=dracula)
+
+</p>
 
 ---
 
