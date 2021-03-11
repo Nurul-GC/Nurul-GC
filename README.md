@@ -1,4 +1,4 @@
-# ![business-card](img/cartaovisitaGC1.png)
+![business-card](img/cartaovisitaGC1.png)
 
 # Olá Colega 👋
 
@@ -20,8 +20,6 @@ Aqui estão algumas idéias sobre mim para você começar:
 
 **Conheça também o pequeno resumo sobre os meus [repositórios](https://nurul-gc.github.io/intro/)** 🤓
 
----
-
 # Hi Coleague 👋
 
 Here are some ideas about me to get you started:
@@ -42,11 +40,7 @@ Here are some ideas about me to get you started:
 
 **See also the short summary about my [repositories](https://nurul-gc.github.io/intro/)** 🤓
 
----
-
 ## Mais Estados - More Status 💻
-
-<p style="text-align:center;">
 
 **Contagem de visitantes anuais - Counting yearly visitors** \
 ![countvisitors](https://profile-counter.glitch.me/Nurul-GC/count.svg)
@@ -60,14 +54,10 @@ Here are some ideas about me to get you started:
 **Conquistas - Trophies** \
 ![trophies](https://github-profile-trophy.vercel.app/?username=Nurul-GC&column=7&theme=dracula)
 
-</p>
-
----
-
 ### Perfis sociais - Social profiles 🤓
 
-[![gmail-icon](img/gmail-icon.svg)](mailto:nuruldecarvalho@gmail.com) \
-[![github-icon](img/github-icon.svg)](https://nurul-gc.github.io/intro)
-[![facebook-icon](img/fb-icon.svg)](https://www.facebook.com/nurul.carvalho) \
+[![gmail-icon](img/gmail-icon.svg)](mailto:nuruldecarvalho@gmail.com)
+[![github-icon](img/github-icon.svg)](https://nurul-gc.github.io/intro) \
+[![facebook-icon](img/fb-icon.svg)](https://www.facebook.com/nurul.carvalho)
 [![twitter-icon](img/twitter-icon.svg)](https://twitter.com/NurulGC3)
 [![linkedin-icon](img/linkedin-icon.svg)](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/)
