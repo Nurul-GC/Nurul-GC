@@ -5,7 +5,7 @@
 Aqui estão algumas idéias sobre mim para você começar:
 
 - 🔭 Atualmente, estou trabalhando em muitos projetos sobre minha marca [ArtesGC](https://artesgc.home.blog)
-- 🌱 Atualmente estou aprendendo (NodeJS, Java)
+- 🌱 Atualmente estou aprendendo (NodeJS, TypeScript, Java)
 - 👯 Estou procurando colaborar no desenvolvimento social
 - 🤔 Estou procurando ajuda para muitos projetos, tente entrar em contato comigo!
 - 💬 Me pergunte sobre qualquer coisa [Nurul Carvalho](mailto:nuruldecarvalho@gmail.com)
@@ -25,7 +25,7 @@ Aqui estão algumas idéias sobre mim para você começar:
 Here are some ideas about me to get you started:
 
 - 🔭 I’m currently working on many projects about my trademark [ArtesGC](https://artesgc.home.blog)
-- 🌱 I’m currently learning (NodeJS, Java)
+- 🌱 I’m currently learning (NodeJS, TypeScript, Java)
 - 👯 I’m looking to collaborate on social development
 - 🤔 I’m looking for help with many projects, please try to reach me!
 - 💬 Ask me about anything [Nurul Carvalho](mailto:nuruldecarvalho@gmail.com)
