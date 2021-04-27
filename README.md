@@ -40,7 +40,9 @@ Here are some ideas about me to get you started:
 
 **See also the short summary about my [repositories](https://nurul-gc.github.io/intro/)** 🤓
 
-## Mais Estados - More Status 💻
+---
+
+# Mais Estados - More Status 💻
 
 **Contagem de visitantes anuais - Counting yearly visitors** \
 ![countvisitors](https://profile-counter.glitch.me/Nurul-GC/count.svg)
@@ -54,7 +56,7 @@ Here are some ideas about me to get you started:
 **Conquistas - Trophies** \
 ![trophies](https://github-profile-trophy.vercel.app/?username=Nurul-GC&column=7&theme=dracula)
 
-### Perfis sociais - Social profiles 🤓
+# Perfis sociais - Social profiles 🤓
 
 [![gmail-icon](img/gmail-icon.svg)](mailto:nuruldecarvalho@gmail.com)
 [![github-icon](img/github-icon.svg)](https://nurul-gc.github.io/intro) \
