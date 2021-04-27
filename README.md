@@ -12,7 +12,7 @@ Aqui estão algumas idéias sobre mim para você começar:
 - 📫 Como me encontrar:
   - WhatsApp: [+27 73 555 0878](https://api.whatsapp.com/send?phone=27735550878)
   - Telegram: [Nurul GC](https://t.me/NurulGC)
-  - Facebook: [Nurul Hosny GC](https://facebook.com/nurul.carvalho)
+  - Facebook: [NH GC](https://facebook.com/nurulh.gc)
   - Instagram: [NurulGC](https://www.instagram.com/nurulgc/)
   - Twitter: [Nurul-GC](https://twitter.com/NurulGC3)
   - Linkedin: [Nurul Carvalho](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/)
@@ -32,7 +32,7 @@ Here are some ideas about me to get you started:
 - 📫 How to reach me:
   - WhatsApp: [+27 73 555 0878](https://api.whatsapp.com/send?phone=27735550878)
   - Telegram: [Nurul GC](https://t.me/NurulGC)
-  - Facebook: [Nurul Hosny GC](https://facebook.com/nurul.carvalho)
+  - Facebook: [NH GC](https://facebook.com/nurulh.gc)
   - Instagram: [NurulGC](https://www.instagram.com/nurulgc/)
   - Twitter: [Nurul-GC](https://twitter.com/NurulGC3)
   - Linkedin: [Nurul Carvalho](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/)
@@ -60,6 +60,6 @@ Here are some ideas about me to get you started:
 
 [![gmail-icon](img/gmail-icon.svg)](mailto:nuruldecarvalho@gmail.com)
 [![github-icon](img/github-icon.svg)](https://nurul-gc.github.io/intro) \
-[![facebook-icon](img/fb-icon.svg)](https://www.facebook.com/nurul.carvalho)
+[![facebook-icon](img/fb-icon.svg)](https://www.facebook.com/nurulh.gc)
 [![twitter-icon](img/twitter-icon.svg)](https://twitter.com/NurulGC3)
 [![linkedin-icon](img/linkedin-icon.svg)](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/)
