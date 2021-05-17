@@ -61,7 +61,7 @@ Here are some ideas about me to get you started:
 ![softskils](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurul-GC&layout=compact&theme=radical&langs_count=20)
 
 **Meu resumo do GitHub** \
-![resume](https://github-readme-stats.vercel.app/api?include_all_commits=true&disable_animations=false&username=Nurul-GC&show_icons=true&theme=merko)
+![resume](https://github-readme-stats.vercel.app/api?disable_animations=false&username=Nurul-GC&show_icons=true&theme=merko)
 
 **Conquistas - Trophies** \
 ![trophies](https://github-profile-trophy.vercel.app/?custom_title=&username=Nurul-GC&column=7&theme=gruvbox)
