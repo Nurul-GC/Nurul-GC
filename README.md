@@ -61,7 +61,7 @@ Here are some ideas about me to get you started:
 **Conquistas - Trophies** \
 ![trophies](https://github-profile-trophy.vercel.app/?custom_title=&username=Nurul-GC&column=7&theme=gruvbox)
 
-# Perfis sociais - Social profiles 🤓
+**Perfis sociais - Social profiles 🤓**
 
 [![gmail-icon](img/gmail-icon.svg)](mailto:nuruldecarvalho@gmail.com)
 [![github-icon](img/github-icon.svg)](https://nurul-gc.github.io/intro)
