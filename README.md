@@ -1,6 +1,6 @@
 <div align="center">
 
-![business-card](img/cartaovisitaGC1.png)
+![business-card](img/cartaovisitaGC2.png)
 
 # Olá Colega 👋
 
