@@ -17,7 +17,7 @@ Aqui estão algumas idéias sobre mim para você começar:
   - WhatsApp: [+27 73 555 0878](https://api.whatsapp.com/send?phone=27735550878)
   - Telegram: [Nurul GC](https://t.me/NurulGC)
   - Facebook: [NH GC](https://facebook.com/nurulhosny.gc/)
-  - Instagram: [NurulGC](https://www.instagram.com/nurulgc/)
+  - Instagram: [NurulGC](https://www.instagram.com/nurulhgc/)
   - Twitter: [Nurul-GC](https://twitter.com/NurulGC3)
   - Linkedin: [Nurul Carvalho](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/)
 - 😄 Apelidos: **Nuninha** ou **GC**
@@ -41,7 +41,7 @@ Here are some ideas about me to get you started:
   - WhatsApp: [+27 73 555 0878](https://api.whatsapp.com/send?phone=27735550878)
   - Telegram: [Nurul GC](https://t.me/NurulGC)
   - Facebook: [NH GC](https://www.facebook.com/nurulhosny.gc/)
-  - Instagram: [NurulGC](https://www.instagram.com/nurulgc/)
+  - Instagram: [NurulGC](https://www.instagram.com/nurulhgc/)
   - Twitter: [Nurul-GC](https://twitter.com/NurulGC3)
   - Linkedin: [Nurul Carvalho](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/)
 - 😄 Nicknames: **Nuninha** or **GC**
@@ -52,9 +52,6 @@ Here are some ideas about me to get you started:
 
 # Mais Detalhes - More Details 💻
 
-**Contagem de visitantes anuais - Counting yearly visitors** \
-![countvisitors](https://profile-counter.glitch.me/Nurul-GC/count.svg)
-
 **Linguagens dominantes** \
 ![softskils](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurul-GC&layout=compact&theme=radical&langs_count=20)
 
@@ -63,6 +60,9 @@ Here are some ideas about me to get you started:
 
 **Conquistas - Trophies** \
 ![trophies](https://github-profile-trophy.vercel.app/?custom_title=&username=Nurul-GC&column=7&theme=gruvbox)
+
+**Contagem de visitantes anuais - Counting yearly visitors** \
+![countvisitors](https://profile-counter.glitch.me/Nurul-GC/count.svg)
 
 # Perfis sociais - Social profiles 🤓
 
