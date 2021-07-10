@@ -48,8 +48,6 @@ Here are some ideas about me to get you started:
 
 **See also the short summary about my [repositories](https://nurul-gc.github.io/intro/)** 🤓
 
----
-
 <div align="center">
 
 # Mais Detalhes - More Details 💻
