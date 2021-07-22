@@ -16,7 +16,7 @@ Aqui estão algumas idéias sobre mim para você começar:
 - 📫 Como me encontrar:
   - WhatsApp: [+27 73 555 0878](https://api.whatsapp.com/send?phone=27735550878)
   - Telegram: [Nurul GC](https://t.me/NurulGC)
-  - Facebook: [Nurul H GC](https://facebook.com/nurulhosny.gc/)
+  - Facebook: [Nurul Hosny GC](https://facebook.com/nurulhosny.gc/)
   - Instagram: [Nurul HGC](https://www.instagram.com/nurulhgc/)
   - Twitter: [Nurul-GC](https://twitter.com/NurulGC3)
   - Linkedin: [Nurul Carvalho](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/)
@@ -40,7 +40,7 @@ Here are some ideas about me to get you started:
 - 📫 How to reach me:
   - WhatsApp: [+27 73 555 0878](https://api.whatsapp.com/send?phone=27735550878)
   - Telegram: [Nurul GC](https://t.me/NurulGC)
-  - Facebook: [Nurul H GC](https://www.facebook.com/nurulhosny.gc/)
+  - Facebook: [Nurul Hosny GC](https://www.facebook.com/nurulhosny.gc/)
   - Instagram: [Nurul HGC](https://www.instagram.com/nurulhgc/)
   - Twitter: [Nurul-GC](https://twitter.com/NurulGC3)
   - Linkedin: [Nurul Carvalho](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/)
