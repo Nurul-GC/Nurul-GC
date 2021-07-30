@@ -57,6 +57,9 @@ Here are some ideas about me to get you started:
 
 **Meu resumo do GitHub** \
 ![resume](https://github-readme-stats.vercel.app/api?disable_animations=false&username=Nurul-GC&show_icons=true&theme=merko)
+  
+**Meu estado de sequência no GitHub** \
+![streak-status](https://github-readme-streak-stats.herokuapp.com/?user=nurul-gc&theme=neon-dark)
 
 **Conquistas - Trophies** \
 ![trophies](https://github-profile-trophy.vercel.app/?custom_title=&username=Nurul-GC&column=7&theme=gruvbox)
