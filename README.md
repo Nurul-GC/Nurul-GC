@@ -53,7 +53,7 @@ Here are some ideas about me to get you started:
 # Mais Detalhes - More Details 💻
 
 **Linguagens dominantes** \
-![softskils](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurul-GC&theme=radical&langs_count=20)
+![softskils](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurul-GC&layout=compact&theme=radical&langs_count=20)
 
 **Meu resumo do GitHub** \
 ![resume](https://github-readme-stats.vercel.app/api?disable_animations=false&username=Nurul-GC&show_icons=true&theme=merko)
