@@ -8,11 +8,11 @@
 
 Aqui estão algumas idéias sobre mim para você começar:
 
-- 🔭 Atualmente, estou trabalhando em muitos projetos sobre minha marca **[ArtesGC](https://artesgc.home.blog)**
-- 🌱 Atualmente estou estudando **(NodeJS, TypeScript, Java, Dart)**
-- 👯 Estou procurando colaborar no desenvolvimento social
-- 🤔 Estou procurando ajuda para muitos projetos, tente entrar em contato comigo!
-- 💬 Me pergunte sobre qualquer coisa **[Nurul Carvalho](mailto:nuruldecarvalho@gmail.com)**
+- 🔭 Atualmente, estou trabalhando em muitos projetos da minha marca **[ArtesGC](https://github.com/ArtesGC)**;
+- 🌱 Atualmente estou estudando **(NodeJS, TypeScript, Java, Dart)**;
+- 👯 Estou procurando colaborar no desenvolvimento social e projetos open-source;
+- 🤔 Estou procurando ajuda para muitos projetos, tente entrar em contato comigo!;
+  - 💬 Me pergunte sobre qualquer coisa **[Nurul Carvalho](mailto:nuruldecarvalho@gmail.com)**.
 - 📫 Como me encontrar:
   - WhatsApp: [+27 73 555 0878](https://api.whatsapp.com/send?phone=27735550878)
   - Telegram: [Nurul GC](https://t.me/NurulGC)
@@ -32,11 +32,11 @@ Aqui estão algumas idéias sobre mim para você começar:
 
 Here are some ideas about me to get you started:
 
-- 🔭 I’m currently working on many projects about my trademark **[ArtesGC](https://artesgc.home.blog)**
-- 🌱 I’m currently studying **(NodeJS, TypeScript, Java, Dart)**
-- 👯 I’m looking to collaborate on social development
-- 🤔 I’m looking for help with many projects, please try to reach me!
-- 💬 Ask me about anything **[Nurul Carvalho](mailto:nuruldecarvalho@gmail.com)**
+- 🔭 I’m currently working on many projects about my trademark **[ArtesGC](https://github.com/ArtesGC)**;
+- 🌱 I’m currently studying **(NodeJS, TypeScript, Java, Dart)**;
+- 👯 I’m looking to collaborate on social development;
+- 🤔 I’m looking for help with many projects, please try to reach me!:
+  - 💬 Ask me about anything **[Nurul Carvalho](mailto:nuruldecarvalho@gmail.com)**.
 - 📫 How to reach me:
   - WhatsApp: [+27 73 555 0878](https://api.whatsapp.com/send?phone=27735550878)
   - Telegram: [Nurul GC](https://t.me/NurulGC)
@@ -44,7 +44,7 @@ Here are some ideas about me to get you started:
   - Instagram: [Nurul HGC](https://www.instagram.com/nurulhgc/)
   - Twitter: [Nurul-GC](https://twitter.com/NurulGC3)
   - Linkedin: [Nurul Carvalho](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/)
-- 😄 Nicknames: **Nuninha** or **GC**
+- 😄 Nicknames: **Nuninha** or **GC**;
 
 **See also the short summary about my [repositories](https://nurul-gc.github.io/intro/)** 🤓
 
