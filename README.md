@@ -11,7 +11,7 @@ Aqui estão algumas idéias sobre mim para você começar:
 - 🔭 Atualmente, estou trabalhando em muitos projetos da minha marca **[ArtesGC](https://github.com/ArtesGC)**;
 - 🌱 Atualmente estou estudando **(NodeJS, TypeScript, Java, Dart)**;
 - 👯 Estou procurando colaborar no desenvolvimento social e projetos open-source;
-- 🤔 Estou procurando ajuda para muitos projetos, tente entrar em contato comigo!;
+- 🤔 Estou procurando ajuda para muitos projetos, tente entrar em contato comigo!:
   - 💬 Me pergunte sobre qualquer coisa **[Nurul Carvalho](mailto:nuruldecarvalho@gmail.com)**.
 - 📫 Como me encontrar:
   - WhatsApp: [+27 73 555 0878](https://api.whatsapp.com/send?phone=27735550878)
@@ -20,7 +20,7 @@ Aqui estão algumas idéias sobre mim para você começar:
   - Instagram: [Nurul HGC](https://www.instagram.com/nurulhgc/)
   - Twitter: [Nurul-GC](https://twitter.com/NurulGC3)
   - Linkedin: [Nurul Carvalho](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/)
-- 😄 Apelidos: **Nuninha** ou **GC**
+- 😄 Apelidos: **Nuninha** ou **GC**;
 
 **Conheça também o pequeno resumo sobre os meus [repositórios](https://nurul-gc.github.io/intro/)** 🤓
 
