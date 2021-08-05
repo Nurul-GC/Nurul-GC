@@ -64,14 +64,6 @@ Here are some ideas about me to get you started:
 **Conquistas - Trophies** \
 ![trophies](https://github-profile-trophy.vercel.app/?custom_title=&username=Nurul-GC&column=7&theme=gruvbox)
 
-**Perfis sociais - Social profiles 🤓**
-
-[![gmail-icon](img/gmail-icon.svg)](mailto:nuruldecarvalho@gmail.com)
-[![github-icon](img/github-icon.svg)](https://nurul-gc.github.io/intro)
-[![facebook-icon](img/fb-icon.svg)](https://www.facebook.com/nurulhosny.gc/) \
-[![twitter-icon](img/twitter-icon.svg)](https://twitter.com/NurulGC3)
-[![linkedin-icon](img/linkedin-icon.svg)](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/)
-
 **Contagem de visitas ao perfil - Counting visitors on profile** \
 ![countvisitors](https://profile-counter.glitch.me/Nurul-GC/count.svg)
 
