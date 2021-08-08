@@ -1,6 +1,6 @@
-<div align="center">
-
 ![business-card](img/cartaovisitaGC2.png)
+
+<div align="center">
 
 # Olá Colega 👋
 
@@ -63,6 +63,11 @@ Here are some ideas about me to get you started:
 
 **Conquistas - Trophies** \
 ![trophies](https://github-profile-trophy.vercel.app/?custom_title=&username=Nurul-GC&column=7&theme=gruvbox)
+
+**My Brands - ArtesGC**
+| OnlineGraphic | Electronic | DevSoft |
+| --- | --- | --- |
+| <img alt="OnlineGraphic" src="img/graphics.png" height=300 witdh=300> | <img alt="Electronic" src="img/eletronics.png" height=300 witdh=300> | <img alt="DevSoft" src="img/software.png" height=300 witdh=300> |
 
 **Contagem de visitas ao perfil - Counting visitors on profile** \
 ![countvisitors](https://profile-counter.glitch.me/Nurul-GC/count.svg)
