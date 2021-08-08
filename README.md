@@ -64,7 +64,7 @@ Here are some ideas about me to get you started:
 **Conquistas - Trophies** \
 ![trophies](https://github-profile-trophy.vercel.app/?custom_title=&username=Nurul-GC&column=7&theme=gruvbox)
 
-**My Brands - ArtesGC**
+**My Brands - [ArtesGC Inc](https://www.facebook.com/artesgc.home.blog/)**
 | OnlineGraphic | Electronic | DevSoft |
 | --- | --- | --- |
 | <img alt="OnlineGraphic" src="img/graphics.png" height=200 witdh=200> | <img alt="Electronic" src="img/eletronics.png" height=200 witdh=200> | <img alt="DevSoft" src="img/software.png" height=200 witdh=200> |
