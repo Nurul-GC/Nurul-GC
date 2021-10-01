@@ -8,12 +8,12 @@
 
 Aqui estão algumas idéias sobre mim para você começar:
 
-- 🔭 Atualmente estou trabalhando em muitos projetos em nome da minha marca **[ArtesGC](https://github.com/ArtesGC)**;
-- 🌱 Atualmente também estou estudando **(NodeJS, TypeScript, Java, Dart)**;
+- 🔭 Atualmente estou trabalhando em muitos projetos em nome da minha marca **[ArtesGC Inc.](https://github.com/ArtesGC)**;
+- 🌱 Atualmente também estou estudando **(Ilustração Gráfica, Organização e Responsividade em Web-Apps, Serviços Java-Backend)**;
 - 👯 Estou procurando colaborar no desenvolvimento social e projetos open-source;
 - 🤔 Preciso de ajuda para muitos projetos, tente entrar em contato comigo:
-  - 💬 Me pergunte sobre qualquer coisa **[Nurul Carvalho](mailto:nuruldecarvalho@gmail.com)**.
-- 📫 Como me encontrar:
+  - 💬 Me pergunte sobre qualquer coisa **[por email](mailto:nuruldecarvalho@gmail.com)**.
+- 📫 Ou ainda:
   - WhatsApp: [+27 73 555 0878](https://api.whatsapp.com/send?phone=27735550878)
   - Telegram: [Nurul GC](https://t.me/NurulGC)
   - Facebook: [Nurul Hosny GC](https://facebook.com/nurulhosny.gc/)
@@ -33,11 +33,11 @@ Aqui estão algumas idéias sobre mim para você começar:
 Here are some ideas about me to get you started:
 
 - 🔭 Currently, I’m working on many projects by my trademark **[ArtesGC](https://github.com/ArtesGC)**;
-- 🌱 Currently, I’m also studying **(NodeJS, TypeScript, Java, Dart)**;
+- 🌱 Currently, I’m also studying **(Graphic Design, Organization and Responsiveness in Web-Apps, Java-Backend Services)**;
 - 👯 I’m looking to collaborate on social development and open-source projects;
 - 🤔 I’m looking for help on many projects, please try to reach me:
-  - 💬 Ask me about anything **[Nurul Carvalho](mailto:nuruldecarvalho@gmail.com)**.
-- 📫 How to reach me:
+  - 💬 Ask me about anything **[by email](mailto:nuruldecarvalho@gmail.com)**.
+- 📫 Or still by:
   - WhatsApp: [+27 73 555 0878](https://api.whatsapp.com/send?phone=27735550878)
   - Telegram: [Nurul GC](https://t.me/NurulGC)
   - Facebook: [Nurul Hosny GC](https://www.facebook.com/nurulhosny.gc/)
