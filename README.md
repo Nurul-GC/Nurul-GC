@@ -77,7 +77,7 @@ Here are some ideas about me to get you started:
   
 | Online Graphic | Electronics | DevSoft |
 | --- | --- | --- |
-| <img alt="Online-Graphic" src="img/graphics.png" height=200 witdh=220> | <img alt="Electronics" src="img/eletronics.png" height=200 witdh=220> | <img alt="DevSoft" src="img/software.png" height=200 witdh=220> |
+| <img alt="Online-Graphic" src="img/graphic.png" height=200 witdh=220> | <img alt="Electronics" src="img/eletronics.png" height=200 witdh=220> | <img alt="DevSoft" src="img/software.png" height=200 witdh=220> |
 
 **Contagem de visitas ao perfil - Counting visitors on profile** \
 ![countvisitors](https://profile-counter.glitch.me/Nurul-GC/count.svg)
