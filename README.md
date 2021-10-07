@@ -9,8 +9,11 @@
 Aqui estão algumas idéias sobre mim para você começar:
 
 - 🔭 Atualmente estou trabalhando em muitos projetos em nome da minha marca **[ArtesGC Inc.](https://github.com/ArtesGC)**;
-- 🌱 Atualmente também estou estudando **(Ilustração Gráfica, Organização e Responsividade em Web-Apps, Serviços Java-Backend)**;
-- 👯 Estou procurando colaborar no desenvolvimento social e projetos open-source;
+- 🌱 Atualmente também estou estudando: 
+  - `Ilustração Gráfica`;
+  - `Organização e Responsividade em Web-Apps`;
+  - `Serviços Java-Backend`;
+- 👯 Estou procurando colaborar no `desenvolvimento social` e `projetos open-source`;
 - 🤔 Preciso de ajuda para muitos projetos, tente entrar em contato comigo:
   - 💬 Me pergunte sobre qualquer coisa **[por email](mailto:nuruldecarvalho@gmail.com)**.
 - 📫 Ou ainda:
@@ -33,8 +36,11 @@ Aqui estão algumas idéias sobre mim para você começar:
 Here are some ideas about me to get you started:
 
 - 🔭 Currently, I’m working on many projects by my trademark **[ArtesGC](https://github.com/ArtesGC)**;
-- 🌱 Currently, I’m also studying **(Graphic Design, Organization and Responsiveness in Web-Apps, Java-Backend Services)**;
-- 👯 I’m looking to collaborate on social development and open-source projects;
+- 🌱 Currently, I’m also studying:
+  - `Graphic Design`;
+  - `Organization and Responsiveness in Web-Apps`;
+  - `Java-Backend Services`;
+- 👯 I’m looking to collaborate on `social development` and `open-source projects`;
 - 🤔 I’m looking for help on many projects, please try to reach me:
   - 💬 Ask me about anything **[by email](mailto:nuruldecarvalho@gmail.com)**.
 - 📫 Or still by:
