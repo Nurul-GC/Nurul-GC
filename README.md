@@ -53,7 +53,7 @@ Here are some ideas about me to get you started:
 <details>
   
 <summary>
-  <b>Detalhes - Prog. - Details 💻</b>
+  <b>Programmer - Details 💻</b>
 </summary>
 <hr>
 
@@ -73,7 +73,7 @@ Here are some ideas about me to get you started:
   
 ---
   
-**My Brands by [ArtesGC Inc](https://www.facebook.com/artesgc.home.blog/)**
+**My Brands by [&trade;ArtesGC Inc](https://www.facebook.com/artesgc.home.blog/)**
   
 | Online Graphic | Electronics | DevSoft |
 | --- | --- | --- |
