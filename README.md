@@ -1,8 +1,8 @@
-![business-card](img/cartaovisitaGC2.png)
+![business-card](img/cartaovisitaGC1.png)
 
 <div align="center">
 
-# Olá Colega 👋
+# Olá Colega <img src="img/waving-hand-joypixels.gif" height=40 width=40>
 
 </div>
 
@@ -26,7 +26,7 @@ Aqui estão algumas idéias sobre mim para você começar:
 
 <div align="center">
 
-# Hi Coleague 👋
+# Hi Coleague <img src="img/waving-hand-joypixels.gif" height=40 width=40>
 
 </div>
 
@@ -50,7 +50,12 @@ Here are some ideas about me to get you started:
 
 <div align="center">
 
-# Mais Detalhes - More Details 💻
+<details>
+  
+<summary>
+  <b>Detalhes - Prog. - Details 💻</b>
+</summary>
+<hr>
 
 **Linguagens dominantes** \
 ![softskils](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurul-GC&layout=compact&theme=radical&langs_count=20)
@@ -64,10 +69,15 @@ Here are some ideas about me to get you started:
 **Conquistas - Trophies** \
 ![trophies](https://github-profile-trophy.vercel.app/?custom_title=&username=Nurul-GC&column=7&theme=gruvbox)
 
+</details>
+  
+---
+  
 **My Brands by [ArtesGC Inc](https://www.facebook.com/artesgc.home.blog/)**
-| OnlineGraphic | Electronic | DevSoft |
+  
+| Online Graphic | Electronics | DevSoft |
 | --- | --- | --- |
-| <img alt="OnlineGraphic" src="img/graphics.png" height=200 witdh=200> | <img alt="Electronic" src="img/eletronics.png" height=200 witdh=200> | <img alt="DevSoft" src="img/software.png" height=200 witdh=200> |
+| <img alt="Online-Graphic" src="img/graphics.png" height=200 witdh=220> | <img alt="Electronics" src="img/eletronics.png" height=200 witdh=220> | <img alt="DevSoft" src="img/software.png" height=200 witdh=220> |
 
 **Contagem de visitas ao perfil - Counting visitors on profile** \
 ![countvisitors](https://profile-counter.glitch.me/Nurul-GC/count.svg)
