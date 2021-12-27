@@ -1,4 +1,4 @@
-![business-card](img/cartaovisitaGC1.png)
+![business-card](img/Nurul%20Carvalho%20bcard.png)
 
 <div align="center">
 
@@ -6,15 +6,19 @@
 
 </div>
 
-Aqui estão algumas idéias sobre mim para você começar:
-
+<details>
+<summary>
+  Aqui esta uma breve introdução sobre mim:
+</summary>
+<hr>
+  
 - 🔭 Atualmente estou trabalhando em muitos projetos em nome da minha marca **[ArtesGC Inc.](https://github.com/ArtesGC)**;
-- 🌱 Atualmente também estou estudando: 
+- 🌱 Também estou estudando e aperfeiçoando as minhas hablidades em: 
   - `Ilustração Gráfica`;
   - `Organização e Responsividade em Web-Apps`;
   - `Serviços Java-Backend`;
 - 👯 Estou procurando colaborar no `desenvolvimento social` e `projetos open-source`;
-- 🤔 Preciso de ajuda para muitos projetos, tente entrar em contato comigo:
+- 🤔 Mas igualmente, preciso de ajuda em muitos projetos, tente entrar em contato comigo:
   - 💬 Me pergunte sobre qualquer coisa **[por email](mailto:nuruldecarvalho@gmail.com)**.
 - 📫 Ou ainda:
   - WhatsApp: [+27 73 555 0878](https://api.whatsapp.com/send?phone=27735550878)
@@ -25,7 +29,10 @@ Aqui estão algumas idéias sobre mim para você começar:
   - Linkedin: [Nurul Carvalho](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/)
 - 😄 Apelidos: **Nuninha** ou **GC**;
 
-**Conheça também o pequeno resumo sobre os meus [repositórios](https://nurul-gc.github.io/intro/)** 🤓
+🤓 **Conheça também, um pequeno resumo sobre os meus [repositórios](https://nurul-gc.github.io/intro/)...**
+  
+</details>
+<hr>
 
 <div align="center">
 
@@ -33,15 +40,19 @@ Aqui estão algumas idéias sobre mim para você começar:
 
 </div>
 
-Here are some ideas about me to get you started:
+<details>
+<summary>
+  Here is a brief introduction about me:
+</summary>
+<hr>
 
 - 🔭 Currently, I’m working on many projects by my trademark **[ArtesGC](https://github.com/ArtesGC)**;
-- 🌱 Currently, I’m also studying:
+- 🌱 I’m also studying and improving my skills on:
   - `Graphic Design`;
   - `Organization and Responsiveness in Web-Apps`;
   - `Java-Backend Services`;
 - 👯 I’m looking to collaborate on `social development` and `open-source projects`;
-- 🤔 I’m looking for help on many projects, please try to reach me:
+- 🤔 But, I’m also looking for help on many projects, please try to reach me:
   - 💬 Ask me about anything **[by email](mailto:nuruldecarvalho@gmail.com)**.
 - 📫 Or still by:
   - WhatsApp: [+27 73 555 0878](https://api.whatsapp.com/send?phone=27735550878)
@@ -52,12 +63,14 @@ Here are some ideas about me to get you started:
   - Linkedin: [Nurul Carvalho](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/)
 - 😄 Nicknames: **Nuninha** or **GC**;
 
-**See also the short summary about my [repositories](https://nurul-gc.github.io/intro/)** 🤓
+🤓 **Also, check out a short summary about my [repositories](https://nurul-gc.github.io/intro/)...**
+
+</details>
+<hr>
 
 <div align="center">
 
 <details>
-  
 <summary>
   <b>Programmer - Details 💻</b>
 </summary>
