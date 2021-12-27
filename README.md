@@ -1,14 +1,16 @@
-![business-card](img/Nurul%20Carvalho%20bcard.png)
+# ![business-card](img/Nurul%20Carvalho%20bcard.png)
 
 <div align="center">
 
-# Olá Colega <img src="img/waving-hand-joypixels.gif" height=40 width=40>
+## Olá Colega <img src="img/waving-hand-joypixels.gif" height=40 width=40>
 
 </div>
 
 <details>
 <summary>
-  Aqui esta uma breve introdução sobre mim:
+  
+  1. `Aqui esta uma breve introdução sobre mim:`
+  
 </summary>
 <hr>
   
@@ -32,17 +34,20 @@
 🤓 **Conheça também, um pequeno resumo sobre os meus [repositórios](https://nurul-gc.github.io/intro/)...**
   
 </details>
-<hr>
+
+---
 
 <div align="center">
 
-# Hi Coleague <img src="img/waving-hand-joypixels.gif" height=40 width=40>
+## Hi Coleague <img src="img/waving-hand-joypixels.gif" height=40 width=40>
 
 </div>
 
 <details>
 <summary>
-  Here is a brief introduction about me:
+  
+  2. `Here is a brief introduction about me:`
+  
 </summary>
 <hr>
 
@@ -66,15 +71,25 @@
 🤓 **Also, check out a short summary about my [repositories](https://nurul-gc.github.io/intro/)...**
 
 </details>
-<hr>
+
+---
 
 <div align="center">
 
+## Programmer Details
+
+</div>
+  
 <details>
 <summary>
-  <b>Programmer - Details 💻</b>
+  
+  1. `Aqui estão alguns detalhes extra sobre mim;`
+  2. `Here are some extra details about me;`
+  
 </summary>
 <hr>
+
+<div align="center">
 
 **Linguagens dominantes** \
 ![softskils](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurul-GC&layout=compact&theme=radical&langs_count=20)
@@ -88,17 +103,20 @@
 **Conquistas - Trophies** \
 ![trophies](https://github-profile-trophy.vercel.app/?custom_title=&username=Nurul-GC&column=7&theme=gruvbox)
 
+</div>
 </details>
   
 ---
   
+<div align="center">
+
 **My Brands by [&trade;ArtesGC Inc](https://www.facebook.com/artesgc.home.blog/)**
   
 | Online Graphic | Electronics | DevSoft |
 | --- | --- | --- |
 | <img alt="Online-Graphic" src="img/graphic.png" height=auto witdh=auto> | <img alt="Electronics" src="img/eletronics.png" height=auto witdh=auto> | <img alt="DevSoft" src="img/software.png" height=auto witdh=auto> |
 
-**Contagem de visitas ao perfil - Counting visitors on profile** \
+**Views on Profile** \
 ![countvisitors](https://profile-counter.glitch.me/Nurul-GC/count.svg)
 
 </div>
