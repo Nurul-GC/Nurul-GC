@@ -1,4 +1,4 @@
-# ![business-card](img/Nurul%20Carvalho%20bcard.png)
+# ![business-card](img/business-card.png)
 
 <div align="center">
 
