@@ -1,4 +1,4 @@
-# ![business-card](img/business-card.png)
+# ![business-card](img/businesscard.png)
 
 <div align="center">
 
