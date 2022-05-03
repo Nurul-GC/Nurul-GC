@@ -110,7 +110,7 @@
   
 <div align="center">
 
-**My Brands by [&trade;ArtesGC Inc](https://www.facebook.com/artesgc.home.blog/)**
+**My Brands by [&trade;ArtesGC Inc](https://artesgc.home.blog/)**
   
 | Online Graphic | Electronics | DevSoft |
 | --- | --- | --- |
