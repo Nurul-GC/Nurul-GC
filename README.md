@@ -116,7 +116,7 @@
 | --- | --- | --- |
 | <img alt="Online-Graphic" src="img/graphic.png" height=auto witdh=auto> | <img alt="Electronics" src="img/eletronics.png" height=auto witdh=auto> | <img alt="DevSoft" src="img/software.png" height=auto witdh=auto> |
 
-![Snake animation](https://github.com/epifaniofrancisco/epifaniofrancisco/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Nurul-GC/Nurul-GC/blob/output/github-contribution-grid-snake.svg)
 
 **Views on Profile** \
 ![countvisitors](https://profile-counter.glitch.me/Nurul-GC/count.svg)
