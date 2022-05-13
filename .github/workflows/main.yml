@@ -15,7 +15,7 @@ jobs:
         id: snake-gif
         svg_out_path: dist/github-contribution-grid-snake.svg
         with:
-          github_user_name: Nurul-
+          github_user_name: Nurul-GC
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
