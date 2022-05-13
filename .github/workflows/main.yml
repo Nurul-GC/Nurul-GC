@@ -2,7 +2,7 @@ name: generate-snake-game-from-github-contribution-grid
 
 on:
   schedule: # execute every 5 minutes
-    - cron: "**/12**"
+    - cron: "5 * * *"
   workflow_dispatch:
 
 jobs:
