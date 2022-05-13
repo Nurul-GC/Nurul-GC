@@ -116,7 +116,7 @@
 | --- | --- | --- |
 | <img alt="Online-Graphic" src="img/graphic.png" height=auto witdh=auto> | <img alt="Electronics" src="img/eletronics.png" height=auto witdh=auto> | <img alt="DevSoft" src="img/software.png" height=auto witdh=auto> |
 
-![Snake animation](img/github-user-contribution.svg)
+![GitHub Snake dark](https://github.com/Nurul-GC/Nurul-GC/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
 **Views on Profile** \
 ![countvisitors](https://profile-counter.glitch.me/Nurul-GC/count.svg)
