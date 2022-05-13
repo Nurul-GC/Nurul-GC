@@ -1,7 +1,9 @@
-# ![business-card](img/businesscard.png)
+![business-card](img/businesscard.png)
 
 <div align="center">
 
+[![generate-snake-game-from-github-contribution-grid](https://github.com/Nurul-GC/Nurul-GC/actions/workflows/main.yml/badge.svg)](https://github.com/Nurul-GC/Nurul-GC/actions/workflows/main.yml)
+  
 ## Olá Colega <img src="img/waving-hand-joypixels.gif" height=40 width=40>
 
 </div>
