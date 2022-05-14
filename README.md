@@ -82,8 +82,6 @@
 
 ## Programming Statistics
 
----
-
 **Linguagens dominantes** \
 ![softskils](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurul-GC&layout=compact&theme=radical&langs_count=20)
 
@@ -107,5 +105,7 @@
 
 **Views on my Profile** \
 ![countvisitors](https://profile-counter.glitch.me/Nurul-GC/count.svg)
+
+&copy; 2019-2022 Nurul-GC
 
 </div>
