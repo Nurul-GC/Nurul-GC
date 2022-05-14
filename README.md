@@ -9,7 +9,7 @@
 <details>
 <summary>
   
-  1. `Aqui esta uma breve introdução sobre mim:`
+  - `Aqui esta uma breve introdução sobre mim:`
   
 </summary>
 <hr>
@@ -23,7 +23,9 @@
 - 🤔 Mas igualmente, preciso de ajuda em muitos projetos, tente entrar em contato comigo:
   - 💬 Me pergunte sobre qualquer coisa **[por email](mailto:nuruldecarvalho@gmail.com)**.
 - 📫 Ou ainda:
-  - WhatsApp: [+27 73 555 0878](https://api.whatsapp.com/send?phone=27735550878)
+  - WhatsApp:
+    - [+27 73 555 0878](https://api.whatsapp.com/send?phone=27735550878)
+    - [+244 925 330 896](https://api.whatsapp.com/send?phone=244925330896)
   - Telegram: [Nurul GC](https://t.me/NurulGC)
   - Facebook: [Nurul Hosny GC](https://facebook.com/nurulhosny.gc/)
   - Instagram: [Nurul HGC](https://www.instagram.com/nurulhgc/)
@@ -46,7 +48,7 @@
 <details>
 <summary>
   
-  2. `Here is a brief introduction about me:`
+  - `Here is a brief introduction about me:`
   
 </summary>
 <hr>
@@ -60,7 +62,9 @@
 - 🤔 But, I’m also looking for help on many projects, please try to reach me:
   - 💬 Ask me about anything **[by email](mailto:nuruldecarvalho@gmail.com)**.
 - 📫 Or still by:
-  - WhatsApp: [+27 73 555 0878](https://api.whatsapp.com/send?phone=27735550878)
+  - WhatsApp:
+    - [+27 73 555 0878](https://api.whatsapp.com/send?phone=27735550878)
+    - [+244 925 330 896](https://api.whatsapp.com/send?phone=244925330896)
   - Telegram: [Nurul GC](https://t.me/NurulGC)
   - Facebook: [Nurul Hosny GC](https://www.facebook.com/nurulhosny.gc/)
   - Instagram: [Nurul HGC](https://www.instagram.com/nurulhgc/)
@@ -76,20 +80,9 @@
 
 <div align="center">
 
-## Programmer Details
+## Programming Statistics
 
-</div>
-  
-<details>
-<summary>
-  
-  1. `Aqui estão alguns detalhes extra sobre mim;`
-  2. `Here are some extra details about me;`
-  
-</summary>
-<hr>
-
-<div align="center">
+---
 
 **Linguagens dominantes** \
 ![softskils](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurul-GC&layout=compact&theme=radical&langs_count=20)
@@ -103,22 +96,16 @@
 **Conquistas - Trophies** \
 ![trophies](https://github-profile-trophy.vercel.app/?custom_title=&username=Nurul-GC&column=7&theme=gruvbox)
 
-</div>
-</details>
-  
----
-  
-<div align="center">
-
 **My Brands by [&trade;ArtesGC Inc](https://artesgc.home.blog/)**
   
 | Online Graphic | Electronics | DevSoft |
 | --- | --- | --- |
 | <img alt="Online-Graphic" src="img/graphic.png" height=auto witdh=auto> | <img alt="Electronics" src="img/eletronics.png" height=auto witdh=auto> | <img alt="DevSoft" src="img/software.png" height=auto witdh=auto> |
 
+**Contribution Status (Snake Game)**
 ![GitHub Snake dark](https://github.com/Nurul-GC/Nurul-GC/blob/output/github-snake-dark.svg)
 
-**Views on Profile** \
+**Views on my Profile** \
 ![countvisitors](https://profile-counter.glitch.me/Nurul-GC/count.svg)
 
 </div>
