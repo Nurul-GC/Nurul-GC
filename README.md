@@ -90,10 +90,10 @@
 **Meu resumo do GitHub** \
 ![resume](https://github-readme-stats.vercel.app/api?disable_animations=false&username=Nurul-GC&show_icons=true&theme=merko)
   
-**Meu estado de sequência no GitHub** \
+**My Streak Status** \
 ![streak-status](https://github-readme-streak-stats.herokuapp.com/?user=Nurul-GC&theme=neon-dark)
 
-**Conquistas - Trophies** \
+**My Trophies** \
 ![trophies](https://github-profile-trophy.vercel.app/?custom_title=&username=Nurul-GC&column=7&theme=gruvbox)
 
 **My Brands by [&trade;ArtesGC Inc](https://artesgc.home.blog/)**
@@ -102,7 +102,7 @@
 | --- | --- | --- |
 | <img alt="Online-Graphic" src="img/graphic.png" height=auto witdh=auto> | <img alt="Electronics" src="img/eletronics.png" height=auto witdh=auto> | <img alt="DevSoft" src="img/software.png" height=auto witdh=auto> |
 
-**Contribution Status (Snake Game)**
+**My Contribution Status (Snake Game)**
 ![GitHub Snake dark](https://github.com/Nurul-GC/Nurul-GC/blob/output/github-snake-dark.svg)
 
 **Views on my Profile** \
