@@ -1,18 +1,14 @@
 ![business-card](img/businesscard.png)
 
-<div align="center">
-
-## Olá Colega <img src="img/waving-hand-joypixels.gif" height=40 width=40>
-
-</div>
-
 <details>
 <summary>
   
-  - `Aqui esta uma breve introdução sobre mim:`
+  ## Olá Colega <img src="img/waving-hand-joypixels.gif" height=40 width=40>
+
+  `Aqui esta uma breve introdução sobre mim:`
   
 </summary>
-<hr>
+
   
 - 🔭 Atualmente estou trabalhando em muitos projetos em nome da minha marca **[ArtesGC Inc.](https://github.com/ArtesGC)**;
 - 🌱 Também estou estudando e aperfeiçoando as minhas hablidades em: 
@@ -39,19 +35,15 @@
 
 ---
 
-<div align="center">
-
-## Hi Coleague <img src="img/waving-hand-joypixels.gif" height=40 width=40>
-
-</div>
-
 <details>
 <summary>
   
-  - `Here is a brief introduction about me:`
+  ## Hi Coleague <img src="img/waving-hand-joypixels.gif" height=40 width=40>
+
+  `Here is a brief introduction about me:`
   
 </summary>
-<hr>
+
 
 - 🔭 Currently, I’m working on many projects by my trademark **[ArtesGC](https://github.com/ArtesGC)**;
 - 🌱 I’m also studying and improving my skills on:
@@ -75,8 +67,6 @@
 🤓 **Also, check out a short summary about my [repositories](https://nurul-gc.github.io/intro/)...**
 
 </details>
-
----
 
 <div align="center">
 
