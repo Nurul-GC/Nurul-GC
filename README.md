@@ -1,4 +1,5 @@
-![business-card](img/businesscard.png)
+![business-card](img/businesscard.png) \
+[![committers.top badge](https://user-badge.committers.top/angola_public/Nurul-GC.svg)](https://user-badge.committers.top/angola_public/Nurul-GC)
 
 <details>
 <summary>
