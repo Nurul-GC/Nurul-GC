@@ -1,4 +1,6 @@
-![business-card](img/businesscard.png) \
+![business-card](img/businesscard.png)
+
+***My position on the contribution rank for Angolan users:***
 [![committers.top badge](https://user-badge.committers.top/angola_public/Nurul-GC.svg)](https://user-badge.committers.top/angola_public/Nurul-GC)
 
 <details>
