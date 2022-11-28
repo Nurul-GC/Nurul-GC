@@ -1,7 +1,11 @@
-![business-card](img/E7B73B3A-AD63-4299-A6F7-E9E7EB734611.jpeg) \
+<div align="center">
+  
+[![Check out Nurul-GC's profile on stardev.io](https://stardev.io/developers/Nurul-GC/badge/languages/global.svg)](https://stardev.io/developers/Nurul-GC) \
 [![@nurulgc's Holopin board](https://holopin.io/api/user/board?user=nurulgc)](https://holopin.io/@nurulgc) \
 [![committers.top badge](https://user-badge.committers.top/angola_public/Nurul-GC.svg)](https://user-badge.committers.top/angola_public/Nurul-GC 'My position on the contribution rank for Angolan users.')
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNurul-GC%2Fhit-counter&count_bg=%23000000&title_bg=%23FF0000&icon=github.svg&icon_color=yellow&title=Hits+on+my+profile&edge_flat=false)
+
+</div>
 
 ## Hi Coleague <img src="img/waving-hand-joypixels.gif" height=40 width=40>
 `Here is a brief introduction about me:`
