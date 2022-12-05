@@ -14,14 +14,12 @@
 - 🌱 I’m also studying and improving my skills on:
   - `Graphic Design`;
   - `Organization and Responsiveness in Web-Apps`;
-  - `Java-Backend Services`;
+  - `Kotlin/Java Backend Services`;
 - 👯 I’m looking to collaborate on `social development` and `open-source projects`;
 - 🤔 But, I’m also looking for help on many projects, please try to reach me:
   - 💬 Ask me about anything **[by email](mailto:nuruldecarvalho@gmail.com)**.
-- 📫 Or still by:
-  - WhatsApp:
-    - [+27 73 555 0878](https://api.whatsapp.com/send?phone=27735550878)
-    - [+244 925 330 896](https://api.whatsapp.com/send?phone=244925330896)
+- 📫 Or still on:
+  - WhatsApp: [+244 925 330 896](https://api.whatsapp.com/send?phone=244925330896)
   - Telegram: [Nurul GC](https://t.me/NurulGC)
   - Facebook: [Nurul Hosny GC](https://www.facebook.com/nurulhosny.gc/)
   - Instagram: [Nurul HGC](https://www.instagram.com/nurulhgc/)
@@ -32,9 +30,14 @@
 🤓 **Also, check out a short summary about my [repositories](https://nurul-gc.github.io/intro/)...** 
 
 <div align="center">
-
-## Programming Statistics
-
+  
+<details>
+<summary><h3>
+  
+  `Click to Check My Programming Statistics..`
+  
+</h3></summary>
+  
 **Meus detalhes do perfil** \
 ![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nurul-GC&theme=radical)
 
@@ -70,6 +73,8 @@
 | Networking Communication | ![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) ![](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white) ![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white) ![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) |
 | Game Stations | ![](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white) ![](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white) ![](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white) ![](https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white) ![](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) ![](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white) ![](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white) |
 
+</details>
+  
 **My Contribution Status (Snake Game)**
 ![GitHub Snake dark](https://github.com/Nurul-GC/Nurul-GC/blob/output/github-snake-dark.svg)
 
