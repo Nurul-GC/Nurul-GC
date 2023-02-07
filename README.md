@@ -1,23 +1,25 @@
 <div align="center">
   
-[![Check out Nurul-GC's profile on stardev.io](https://stardev.io/developers/Nurul-GC/badge/languages/global.svg)](https://stardev.io/developers/Nurul-GC) \
-[![@nurulgc's Holopin board](https://holopin.io/api/user/board?user=nurulgc)](https://holopin.io/@nurulgc) \
+[![Check out Nurul-GC's profile on stardev.io](https://stardev.io/developers/Nurul-GC/badge/languages/global.svg)](https://stardev.io/developers/Nurul-GC)
+<!-- [![@nurulgc's Holopin board](https://holopin.io/api/user/board?user=nurulgc)](https://holopin.io/@nurulgc) -->
 [![committers.top badge](https://user-badge.committers.top/angola_public/Nurul-GC.svg)](https://user-badge.committers.top/angola_public/Nurul-GC 'My position on the contribution rank for Angolan users.')
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNurul-GC%2Fhit-counter&count_bg=%23000000&title_bg=%23FF0000&icon=github.svg&icon_color=yellow&title=Hits+on+my+profile&edge_flat=false)
 
 </div>
 
 ## Hi Coleague <img src="img/waving-hand-joypixels.gif" height=40 width=40>
+
 `Here is a brief introduction about me:`
 
 - 🔭 Currently, I’m working on many projects by my trademark **[ArtesGC](https://github.com/ArtesGC)**;
 - 🌱 I’m also studying and improving my skills on:
   - `Graphic Design`;
-  - `Organization and Responsiveness in Web-Apps`;
+  - `UI/UX and Responsiveness in Web-Apps`;
   - `Kotlin/Java Backend Services`;
+  - `C/C++ graphical interfaces development with QT-Framework`;
 - 👯 I’m looking to collaborate on `social development` and `open-source projects`;
 - 🤔 But, I’m also looking for help on many projects, please try to reach me:
-  - 💬 Ask me about anything **[by email](mailto:nuruldecarvalho@gmail.com)**.
+  - 💬 Ask me about anything, **[by emailing me](mailto:nuruldecarvalho@gmail.com)**.
 - 📫 Or still on:
   - WhatsApp: [+244 925 330 896](https://api.whatsapp.com/send?phone=244925330896)
   - Telegram: [Nurul GC](https://t.me/NurulGC)
@@ -25,7 +27,7 @@
   - Instagram: [Nurul HGC](https://www.instagram.com/nurulhgc/)
   - Twitter: [Nurul-GC](https://twitter.com/NurulGC3)
   - Linkedin: [Nurul Carvalho](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/)
-- 😄 Nicknames: **Nuninha** or **GC**;
+- 😄 Nicknames: **Nuninha** or **NGC**;
 
 🤓 **Also, check out a short summary about my [repositories](https://nurul-gc.github.io/intro/)...** 
 
@@ -81,6 +83,6 @@
 **Views on my Profile** \
 ![countvisitors](https://profile-counter.glitch.me/Nurul-GC/count.svg)
 
-&copy; 2019-2022 Nurul-GC
+&copy; 2019-2023 Nurul-GC
 
 </div>
