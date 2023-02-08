@@ -26,7 +26,7 @@
   - Facebook: [Nurul Hosny GC](https://www.facebook.com/nurulhosny.gc/)
   - Instagram: [Nurul HGC](https://www.instagram.com/nurulhgc/)
   - Twitter: [Nurul-GC](https://twitter.com/NurulGC3)
-  - Linkedin: [Nurul Carvalho](https://www.linkedin.com/in/nurul-carvalho-4a64b01b4/)
+  - Linkedin: [Nurul Hosny Gaspar Carvalho](https://www.linkedin.com/in/nurul-hosny-gaspar-carvalho-4a64b01b4/)
 - 😄 Nicknames: **Nuninha** or **NGC**;
 
 🤓 **Also, check out a short summary about my [repositories](https://nurul-gc.github.io/intro/)...** 
