@@ -4,7 +4,10 @@
 <!-- [![@nurulgc's Holopin board](https://holopin.io/api/user/board?user=nurulgc)](https://holopin.io/@nurulgc) -->
 [![committers.top badge](https://user-badge.committers.top/angola_public/Nurul-GC.svg)](https://user-badge.committers.top/angola_public/Nurul-GC 'My position on the contribution rank for Angolan users.')
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNurul-GC%2Fhit-counter&count_bg=%23000000&title_bg=%23FF0000&icon=github.svg&icon_color=yellow&title=Hits+on+my+profile&edge_flat=false) \
+
+<!--
 [![generate-snake-game-from-github-contribution-grid](https://github.com/Nurul-GC/Nurul-GC/actions/workflows/main.yml/badge.svg)](https://github.com/Nurul-GC/Nurul-GC/actions/workflows/main.yml)
+-->
 
 </div>
 
