@@ -1,29 +1,29 @@
-name: generate-snake-game-from-github-contribution-grid
+# name: generate-snake-game-from-github-contribution-grid
 
-on:
-  schedule:
-  - cron: '5 * * * 0-6'
+# on:
+#  schedule:
+#  - cron: '5 * * * 0-6'
 
-jobs:
-  build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Creating the Snake Animation
-      - uses: Platane/snk@v3.0.0
-        id: snake-gif
-        with:
-          github_user_name: Nurul-GC
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+# jobs:
+#  build:
+#    name: Jobs to update datas
+#    runs-on: ubuntu-latest
+#    steps:
+#      # Creating the Snake Animation
+#      - uses: Platane/snk@v3.0.0
+#        id: snake-gif
+#        with:
+#          github_user_name: Nurul-GC
+#          outputs: |
+#            dist/github-snake.svg
+#            dist/github-snake-dark.svg?palette=github-dark
+#            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 
       # Creating a new branch for Github-Pages
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#      - uses: crazy-max/ghaction-github-pages@v3.1.0
+#        with:
+#          target_branch: output
+#          build_dir: dist
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
