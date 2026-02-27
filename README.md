@@ -1,11 +1,10 @@
 <div align="center">
   
+<!-- 
 [![Check out Nurul-GC's profile on stardev.io](https://stardev.io/developers/Nurul-GC/badge/languages/global.svg)](https://stardev.io/developers/Nurul-GC)
-<!-- [![@nurulgc's Holopin board](https://holopin.io/api/user/board?user=nurulgc)](https://holopin.io/@nurulgc) -->
+[![@nurulgc's Holopin board](https://holopin.io/api/user/board?user=nurulgc)](https://holopin.io/@nurulgc)
 [![Nuninha-GC's Dev Card](https://api.daily.dev/devcards/v2/QfVTsAbnshqzMHZ8rMviB.png?type=wide&r=bla")](https://app.daily.dev/nuninhagc")
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNurul-GC%2Fhit-counter&count_bg=%23000000&title_bg=%23FF0000&icon=github.svg&icon_color=yellow&title=Hits+on+my+profile&edge_flat=false)
-
-<!--
 [![generate-snake-game-from-github-contribution-grid](https://github.com/Nurul-GC/Nurul-GC/actions/workflows/main.yml/badge.svg)](https://github.com/Nurul-GC/Nurul-GC/actions/workflows/main.yml)
 -->
 
@@ -48,17 +47,21 @@
 **Meus detalhes do perfil** \
 ![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nurul-GC&theme=radical)
 
+<!--
 **Linguagens dominantes** \
 ![softskils](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurul-GC&layout=compact&theme=radical&langs_count=20)
 
 **Meu resumo do GitHub** \
 ![resume](https://github-readme-stats.vercel.app/api?disable_animations=false&username=Nurul-GC&show_icons=true&theme=radical)
+-->
   
 **My Streak Status** \
 ![streak-status](https://github-readme-streak-stats.herokuapp.com/?user=Nurul-GC&theme=radical)
 
+<!--
 **My Trophies** \
 ![trophies](https://github-profile-trophy.vercel.app/?custom_title=&username=Nurul-GC&column=7&theme=radical)
+-->
 
 **My Brands by [&trade;ArtesGC Inc](https://artesgc.home.blog/)**
   
@@ -85,9 +88,11 @@
 **My Contribution Status (Snake Game)**
 ![GitHub Snake dark](https://github.com/Nurul-GC/Nurul-GC/blob/output/github-snake-dark.svg)
 
+<!--
 **Views on my Profile** \
 ![countvisitors](https://profile-counter.glitch.me/Nurul-GC/count.svg)
+-->
 
-&copy; 2019-2025 Nurul-GC
+&copy; 2019-2026 Nurul-GC
 
 </div>
